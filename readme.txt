@@ -13,6 +13,6 @@
 
 6. Copy the distance files from <a href=https://drive.google.com/drive/u/0/folders/1ah7pfjnnJkYiwHUqGLgznPU4u0u5dFme>Graphhopper API</a>, and store those in folder named Distance.
 
-7. Store the axi data files in the folder named Taxi_Data
+7. Store the Taxi data files in the folder named Taxi_Data
 
 8. Run fnal.py
